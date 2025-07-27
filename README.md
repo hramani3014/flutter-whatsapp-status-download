@@ -1,6 +1,6 @@
 # whatsapp status saver
 
-A new Flutter project.
+A Flutter application designed to save WhatsApp and WhatsApp Business statuses directly to your device's gallery.
 
 ## Getting Started
 
