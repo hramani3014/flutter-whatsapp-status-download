@@ -53,7 +53,7 @@ class S {
   /// `Status Saver`
   String get appName {
     return Intl.message(
-      'Status Saver',
+      'Status Box',
       name: 'appName',
       desc: '',
       args: [],

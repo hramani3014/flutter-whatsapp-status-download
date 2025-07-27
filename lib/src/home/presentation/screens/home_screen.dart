@@ -63,6 +63,7 @@ class _HomePageState extends ConsumerState<HomePage>
         // const SizedBox(width: 12),
         Text(
           'Status Box',
+          // context.l10n.appName,
           style: const TextStyle(
             fontSize: 20,
             fontWeight: FontWeight.w600,
