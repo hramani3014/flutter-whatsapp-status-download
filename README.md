@@ -1,16 +1,17 @@
-# whatsapp_status
+# whatsapp status saver
 
-A new Flutter project.
+A Flutter application designed to save WhatsApp and WhatsApp Business statuses directly to your device's gallery.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This is a whatsapp status download app.
 
-A few resources to get you started if this is your first Flutter project:
+## Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Personal/Business Whatsapp Statuses
+Light/dark mode toggle
+Localization
+Minimalistic Design
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📱 App Preview
+
