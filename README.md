@@ -6,5 +6,12 @@ A Flutter application designed to save WhatsApp and WhatsApp Business statuses d
 
 This is a whatsapp status download app.
 
+## Features
+
+Personal/Business Whatsapp Statuses
+Light/dark mode toggle
+Localization
+Minimalistic Design
+
 ## 📱 App Preview
 
