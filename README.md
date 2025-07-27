@@ -8,10 +8,12 @@ This is a whatsapp status download app.
 
 ## Features
 
-Personal/Business Whatsapp Statuses
-Light/dark mode toggle
-Localization
-Minimalistic Design
+- Personal/Business Whatsapp Statuses
+- Light/dark mode toggle
+- Localization
+- Minimalistic Design
 
 ## 📱 App Preview
+
+https://github.com/user-attachments/assets/0dea6903-58c6-43b5-8102-7ea844603aea
 
